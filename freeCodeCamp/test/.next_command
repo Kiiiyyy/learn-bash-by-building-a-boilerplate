@@ -456,3 +456,13 @@ find
 rm -help
 rm -h
 rm --help
+ls --color=auto
+\rmdir -r fonts
+rmdir -r fonts
+rmdir fonts -r
+rmdir -r fonts
+rmdir --help
+rmdir -R fonts
+rmdir -R /fonts
+rmdir fonts -r
+rm -R fonts
