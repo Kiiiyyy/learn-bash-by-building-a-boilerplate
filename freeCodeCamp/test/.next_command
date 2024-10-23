@@ -230,3 +230,4 @@ cd ../
 cd ../
 cd website
 cd images
+ls --color=auto
