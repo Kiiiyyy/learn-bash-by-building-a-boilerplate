@@ -435,3 +435,11 @@ cd client/assets
 find
 cd ../../
 find
+cd client/assets
+ls --color=auto
+cd icons
+mkdir fonts
+rmdir fonts
+cd ../../
+cd ..
+mkdir client/assets/fonts
