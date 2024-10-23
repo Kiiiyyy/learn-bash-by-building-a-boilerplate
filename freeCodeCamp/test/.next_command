@@ -116,3 +116,24 @@ clear
 ls --color=auto
 cd src
 pwd
+cd /
+cd src
+ls --color=auto
+cd home
+ls --color=auto
+cd gitpod
+ls --color=auto
+cd /
+ls --color=auto
+cd workspace
+ls --color=auto
+cd project
+ls --color=auto
+cd freeCodeCamp
+cd has
+ls --color=auto
+cd node_modules
+ls --color=auto
+cd has
+cd src
+ls --color=auto
