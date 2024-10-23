@@ -170,3 +170,4 @@ touch footer.jpeg
 ls --color=auto
 __vsc_prompt_cmd_original
 touch roboto.font
+touch lato.font
