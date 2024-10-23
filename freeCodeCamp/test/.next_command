@@ -286,3 +286,12 @@ ls --color=auto
 cd website
 ls --color=auto
 find --help
+cd client
+ls --color=auto
+cd src
+ls --color=auto
+find -name index.html
+cd ../
+find -name index.html
+cd ../
+find -name index.html
