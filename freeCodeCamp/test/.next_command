@@ -381,3 +381,4 @@ find
 cd ../..
 cd ..
 find
+rmdir images
