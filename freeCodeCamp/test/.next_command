@@ -382,3 +382,6 @@ cd ../..
 cd ..
 find
 rmdir images
+cd images
+ls --color=auto
+rm background.jpg
