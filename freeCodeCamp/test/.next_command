@@ -328,3 +328,27 @@ find .
 cd client
 mkdir assets
 cd assets
+cd ..
+ls --color=auto
+cd src
+ls --color=auto
+cd ..
+cd ..
+ls --color=auto
+mv images client/assets
+cd cliet
+cd client
+ls --color=auto
+cd assets
+ls --color=auto
+mv images ../../images
+cd ..
+cd ..
+ls --color=auto
+cd images
+ls --color=auto
+cd ..
+cd client
+ls --color=auto
+cd assets
+mkdir images
