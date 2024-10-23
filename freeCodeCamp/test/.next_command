@@ -631,3 +631,4 @@ cd toms-website
 find
 cd ..
 find website-boilerplate
+clear
