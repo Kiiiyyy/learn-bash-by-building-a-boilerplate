@@ -159,3 +159,4 @@ ls --color=auto
 rm style.css
 ls --color=auto
 touch index.js
+touch .gitignore
