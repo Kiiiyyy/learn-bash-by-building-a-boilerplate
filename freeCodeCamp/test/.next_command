@@ -363,3 +363,4 @@ ls --color=auto
 ls --color=auto
 cd ..
 ls --color=auto
+find -name images
